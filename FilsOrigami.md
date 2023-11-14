@@ -11,4 +11,5 @@
 * My paper rectangle
     * ![rectangle](paperRectangle.jpg)    
 
-**Thank you**
+**Thank you**  
+Click [here](README.md) to return to the main page.
