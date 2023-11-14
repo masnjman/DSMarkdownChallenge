@@ -1,7 +1,7 @@
 # Masons ReadMe textfile for Digital Systems
 ## This is Fil
 ![Fil](fil.JPG)
-* Fils interests
+Fils interests include:
  * Bike riding
  * Computer games
  * Singing
