@@ -1,2 +1,3 @@
-# DSMarkdownChallenge
-This is a Markdown page for Digital Systems class
+# Masons ReadMe textfile for Digital Systems
+## This is Fil
+![Fil](fil.JPG)
